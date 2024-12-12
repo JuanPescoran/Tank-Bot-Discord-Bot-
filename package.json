@@ -1,0 +1,15 @@
+{
+  "name": "tank-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Pescoran",
+  "license": "ISC",
+  "description": "My first serious attempt to create a discord bot",
+  "devDependencies": {
+    "eslint": "^9.16.0"
+  }
+}
